@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm K3vin <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">A guy who passionate in Cyber Security and learning to be a Pentester and Bug Bounty Hunter </h3>
+<h3 align="center">On a journey of learning to be a pentester and a bug bounty hunter </h3>
 <p>
 -  🌱 Currently learning Cyber Security at University of Information Technology VNU-HCM <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemg0bzg4ZGZyZWNxeGdvMXhzMm90NXo4ZHJpOXc4dGtlZng3OTVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/200.webp" width="40"></p>
 - 📫 How to reach me: <a href="mailto:23520769@gm.uit.edu.vn">23520769@gm.uit.edu.vn</a>
