@@ -3,9 +3,11 @@
 <p>
 -  🌱 Currently learning Cyber Security at University of Information Technology VNU-HCM <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemg0bzg4ZGZyZWNxeGdvMXhzMm90NXo4ZHJpOXc4dGtlZng3OTVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/200.webp" width="40"></p>
 - 📫 How to reach me: <a href="mailto:23520769@gm.uit.edu.vn">23520769@gm.uit.edu.vn</a>
-Interesting fact: 
-  - Most impactful vulnerability on client-side is ATO
-  - Most impactful vulnerability on server-side is RCE
+<p><strong>Fun fact:</strong> Every webapp has two main villains: 
+  <ul>
+    <li>ATO</abbr> on the client-side </li>
+    <li>RCE</abbr> on the server-side </li>
+  </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/k3vinq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/k3vinq/" height="30" width="40" /></a>
